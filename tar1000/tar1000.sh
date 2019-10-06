@@ -4,7 +4,7 @@
 c=1000
 
 #sets up for loop for tar operation
-while [ c!=1 ]; do
+while [ $c -ge  0 ]; do
 
 	#untars each time while for loop is true
 	tar -xvf $c.tar
