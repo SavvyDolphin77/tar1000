@@ -23,7 +23,7 @@ Essentialy, after you download the repository and read the License agreeement, j
 
 **NOTE: THERE IS NO SUPPORT FOR DIFFERENT DIRECTORIES! ALL PROGRAM AND 1000.tar FILES MUST BE IN THE SAME DIRECTORY!**
 
-Once there ensure that the program you want to run, wether the extractor.sh or reset.sh has the linux executable permissions. One way do enable the permissions is to run the command:
+Once in the directory ensure that the program you want to run, whether the extractor.sh or reset.sh, has the linux executable permissions. One way do enable the permissions is to run the command:
 
 ```bash
 chmod +x {name of program}.sh
