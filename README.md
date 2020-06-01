@@ -4,9 +4,11 @@ This is a bash script for linux to decompress a file that has been compressed by
 
 I made this in response to being a problem in the PicoCTF in 2019 in order to get the flag for the answer.
 
-**STATUS:** The project is currently complete as a working program was developed. ~~However, going back and revising it by adding a reset script and fix the issues with the project. Will update status once those are finished.~~
+**STATUS:** The project is currently complete as a working program was developed. The reset script has also been complete meaning this project currently is 100% done, unless someone posts an issue or bug. ~~However, going back and revising it by adding a reset script and fix the issues with the project. Will update status once those are finished.~~
 
-UPDATE: All issues have been resolved in the extractor.sh, so now working on the reset.sh script.
+~~UPDATE: All issues have been resolved in the extractor.sh, so now working on the reset.sh script.~~
+
+UPDATE: Added and finished a working reset script that now works to reset the enviroment.
 
 ## What Is In This Repo
 
